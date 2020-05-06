@@ -62,12 +62,29 @@
 {"message":"Invalid rating 'invalid'","level":"error"}
 {"message":"Invalid url htp://invalid-url","level":"error"}
 {"message":"Bookmark with id 272802c5-6c5d-4aa3-a00e-fd979b1a640a created","level":"info"}
-{"message":"Bookmark with id of doesnt-exist not found.","level":"error"}
-{"message":"Bookmark with an id bdc5c29a-f9e6-4fba-855d-02aa0a61d743 deleted.","level":"info"}
+{"message":"Bookmark with an id 0354bef3-4a1c-4ca8-aca4-e9e989e8a7ea deleted.","level":"info"}
 {"message":"Bookmark with an id of doesnt-exist not found.","level":"error"}
 {"message":"title is required","level":"error"}
 {"message":"url is required","level":"error"}
 {"message":"rating is required","level":"error"}
 {"message":"Invalid rating 'invalid'","level":"error"}
 {"message":"Invalid url htp://invalid-url","level":"error"}
-{"message":"Bookmark with id 26d85cba-4310-4ff4-89c8-6e451e8d8e57 created","level":"info"}
+{"message":"Bookmark with id 7b9bebed-4869-4fba-a415-cf1cb844bf43 created","level":"info"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with an id 426c37bd-939f-4bd2-b262-f31d9c6254b2 deleted.","level":"info"}
+{"message":"Bookmark with an id of doesnt-exist not found.","level":"error"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid'","level":"error"}
+{"message":"Invalid url htp://invalid-url","level":"error"}
+{"message":"Bookmark with id 4e252ea2-3260-4f3a-a32f-be397e310b86 created","level":"info"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with an id c26f9a0f-c690-482f-b65e-492c3317757e deleted.","level":"info"}
+{"message":"Bookmark with an id of doesnt-exist not found.","level":"error"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid'","level":"error"}
+{"message":"Invalid url htp://invalid-url","level":"error"}
+{"message":"Bookmark with id 2a2c57f3-a4ad-45ea-b901-6035a03c30eb created","level":"info"}
