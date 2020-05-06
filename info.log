@@ -62,3 +62,12 @@
 {"message":"Invalid rating 'invalid'","level":"error"}
 {"message":"Invalid url htp://invalid-url","level":"error"}
 {"message":"Bookmark with id 272802c5-6c5d-4aa3-a00e-fd979b1a640a created","level":"info"}
+{"message":"Bookmark with id of doesnt-exist not found.","level":"error"}
+{"message":"Bookmark with an id bdc5c29a-f9e6-4fba-855d-02aa0a61d743 deleted.","level":"info"}
+{"message":"Bookmark with an id of doesnt-exist not found.","level":"error"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid'","level":"error"}
+{"message":"Invalid url htp://invalid-url","level":"error"}
+{"message":"Bookmark with id 26d85cba-4310-4ff4-89c8-6e451e8d8e57 created","level":"info"}
